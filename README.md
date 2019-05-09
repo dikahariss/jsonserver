@@ -1,9 +1,9 @@
-##Getting Started
+#Getting Started
 ```
 npm install
 ```
 
-##Run
+#Run
 ```
 npm run json:server
 ```
