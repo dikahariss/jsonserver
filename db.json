@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Dika",
+            "lastName":"Haris",
+            "email":"dika@haris.com",
+            "age":29,
+            "companyId":"1"
+        },
+        {
+            "id":"2",
+            "firstName":"Angga",
+            "lastName":"Nugraha",
+            "email":"angga@nugraha.com",
+            "age":28,
+            "companyId":"1"
+        }
+    ]
+}
