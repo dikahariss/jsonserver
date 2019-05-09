@@ -15,6 +15,39 @@
             "email":"angga@nugraha.com",
             "age":28,
             "companyId":"1"
+        },
+        {
+            "id":"3",
+            "firstName":"Adi",
+            "lastName":"Nuralim",
+            "email":"adi@nuralim.com",
+            "age":24,
+            "companyId":"2"
+        },
+        {
+            "id":"4",
+            "firstName":"Udin",
+            "lastName":"Sedunia",
+            "email":"udin@sedunia.com",
+            "age":35,
+            "companyId":"3"
+        }
+    ],
+    "companies":[
+        {
+            "id":"1",
+            "name":"Trimitrasis",
+            "desc":"Konsultan IT"
+        },
+        {
+            "id":"2",
+            "name":"Kompas",
+            "desc":"Media Online Terpercaya"
+        },
+        {
+            "id":"3",
+            "name":"Detik",
+            "desc":"News Media Online Tercepat"
         }
     ]
 }
